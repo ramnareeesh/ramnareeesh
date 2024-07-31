@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **GNNs, LLMs**.
 - 👯 I’m looking to collaborate on **machine learning/deep learning projects invloving computer vision, nlp or time series**.
 - 🤔 I’m looking for help with **full stack development**.
-- 💬 Ask me about **ML/DL, Data Science, Computer Vision, MLP, Problem Solving, Hackathons**.
+- 💬 Ask me about **ML/DL, Data Science, Computer Vision, NLP, Problem Solving, Hackathons**.
 - 📫 How to reach me: ramnareshnathan@gmail.com , www.linkedin.com/in/ramnaresh-ulaganathan/
 
   
